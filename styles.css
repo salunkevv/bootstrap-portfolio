@@ -1,0 +1,26 @@
+/* .aboutme{
+    width: 100vw;
+    padding: 20px;
+}
+.aboutme>h1{
+    text-align: center;
+}
+.rightofaboutme>img{
+   height: 20vw;
+    width: 23%;
+    border: 1px solid black;
+}
+.rightofaboutme{
+    display: flex;
+    justify-content: space-between;
+}
+.rightofaboutme>p{
+    padding-inline: 20px;
+    text-align: justify;
+} */
+nav{
+    position: sticky;
+    z-index: 1000;
+    top: 0px;
+    background-color: black;
+}
